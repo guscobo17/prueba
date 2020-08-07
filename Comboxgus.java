@@ -3,8 +3,7 @@ import java.awt.event.*;
 
 
 public class Comboxgus extends JFrame implements ItemListener{
-   //private JLabel label1;
-   //private JLabel label2;
+   
    private JComboBox combo1;
    //private JButton boton1;
    
